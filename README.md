@@ -1,2 +1,2 @@
 # htmlcssjs
-here is the html code which i have learnt and written  
+here is the HTML code 
